@@ -22,7 +22,7 @@ The interactive Power BI dashboard includes the following insights:
 
 - **Total Records**: 11,997
 - **Fields Included**:
-  - 'Name', 'Age', 'Gender'
+  - `Name`, `Age`, `Gender`
   - `Date of Event`, `Date of Death`
   - `Citizenship`
   - `Event Location – Region` and `District`
